@@ -1,0 +1,6 @@
+data_vF description:
+pathTELI_repli:
+Replicate of teli pathway, 1-6 conc R1, 7-12 conc R2, 13 - 18 conc R3
+
+pathTELI:
+pathway*conc*property: 3rd dimension: average, minimum, maximum
